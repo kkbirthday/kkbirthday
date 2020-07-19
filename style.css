@@ -19,6 +19,10 @@ iframe {
   margin-right: auto;
 }
 
+.sunflow {
+  width: 100%
+}
+
 @media (max-width: 479px) {
   img {
     width: 80%;
